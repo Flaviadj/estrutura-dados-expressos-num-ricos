@@ -1,5 +1,4 @@
-Panorama Geral da Solução
-Para atingir o objetivo, vamos seguir os seguintes passos:
+
 
 Estrutura do Projeto: Conforme solicitado, o nosso código será dividido em três arquivos para garantir a modularidade e organização:
 
