@@ -40,9 +40,15 @@ expressao.c main.c: Indica os arquivos-fonte que serão compilados.
 -lm: Esta é uma parte muito importante. Ela "linka" a biblioteca matemática (math.h) para que possamos usar funções como sqrt, sin, cos, log10, etc. Sem isso, terás erros de compilação.
 Executa o Programa: Após a compilação bem-sucedida, um arquivo chamado expressao.exe (ou expressao em Linux/macOS) será criado. Para executá-lo, digita no terminal:
 
-No Windows: .\expressao.exe ou simplesmente expressao
+No Windows:
+.\expressao.exe 
+
+ou 
+
+simplesmente expressao
+
 No Linux/macOS: ./expressao
-O programa irá iniciar e mostrar o menu que criámos. Podes agora testar as expressões do PDF ou as tuas próprias!
+
 
 
 
